@@ -23,15 +23,26 @@ Automatic Close is a Chrome extension that allows you to automatically close spe
 
 ## 📂 File Structure
 
-automatic-close/
-├─ popup.html # The extension popup layout
-├─ popup.js # Logic for popup interactions
-├─ dashboard.html # Full-page dashboard layout
-├─ dashboard.js # Logic for the dashboard
-├─ background.js # Background script to automatically close blocked tabs
-├─ automatic-close-logo.png # Logo used in popup and dashboard
-├─ manifest.json # Chrome extension manifest
-└─ README.md # This README file
+
+✅ Voordeel: GitHub rendert het exact zoals het eruit ziet, met nieuwe regels en indentatie.
+
+---
+
+### 2️⃣ Gebruik gewone Markdown-lijst in plaats van codeblock
+
+```markdown
+## File Structure
+
+- automatic-close/
+  - popup.html
+  - popup.js
+  - dashboard.html
+  - dashboard.js
+  - background.js
+  - automatic-close-logo.png
+  - manifest.json
+  - README.md
+
 
 ---
 
