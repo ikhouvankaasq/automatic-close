@@ -30,7 +30,7 @@ Automatic Close is a Chrome extension that allows you to automatically close spe
 
 ### 2️⃣ Gebruik gewone Markdown-lijst in plaats van codeblock
 
-```markdown
+
 ## File Structure
 
 - automatic-close/
@@ -42,7 +42,6 @@ Automatic Close is a Chrome extension that allows you to automatically close spe
   - automatic-close-logo.png
   - manifest.json
   - README.md
-
 
 ---
 
